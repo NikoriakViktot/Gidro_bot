@@ -1,0 +1,8 @@
+pytelegrambotapi
+Django
+requests
+BS4
+selenium
+virtualenv
+python-dotenv
+Celery
